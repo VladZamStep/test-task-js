@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Headphones",
+      "price": 10,
+      "date": "2021-01-11T10:10:00.007Z"
+    },
+    {
+      "id": 2,
+      "title": "Mouse",
+      "price": 15.2,
+      "date": "2021-01-11T10:10:00.007Z"
+    },
+    {
+      "id": 3,
+      "title": "Keyboard",
+      "price": 9.99,
+      "date": "2021-01-11T10:10:00.007Z"
+    }
+  ]
+}
